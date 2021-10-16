@@ -5,4 +5,4 @@ This is a CLI app which tests your knowledge on Indian Dance.
 [Click here](https://replit.com/@khushi1214/Do-You-Know-Indian-Dance#index.js) to play it!
 
 ### Want to know Code Behind ?
-[Click here](https://replit.com/@khushi1214/Do-You-Know-Indian-Dance)
+[Click here](https://replit.com/@khushi1214/Do-You-Know-Indian-Dance) to got it!
